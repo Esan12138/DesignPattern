@@ -1,7 +1,7 @@
 package DesignPattern.adapter.demo2;
 
 /**
- * @Description:使用的类适配器
+ * @Description:类适配器
  * @Date:2023-04-14-10:29
  * @author:Esan
  */

@@ -1,6 +1,5 @@
 package DesignPattern.adapter.homework1;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 /**
  * @Description:
